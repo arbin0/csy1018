@@ -1,5 +1,6 @@
-body{
-	margin: 0; padding: 0;
+
+body {
+
 }
 header{
 	background: green;
@@ -11,5 +12,13 @@ section{
 	background: purple;
 	color: white;
 	text-align: center;
+	padding: 2;
 
+}
+footer{
+	background: crimson;
+	color: white;
+	padding: 1;
+	text-align: center;
+	
 }
